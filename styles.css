@@ -14,5 +14,14 @@ h3 {
 
 body {
   background-color: #ffffff;
-  
+}
+
+a:link, a:visited {
+    background-color: #bfaa1a;
+    color: #ffffff;
+}
+
+
+a:hover, a:active {
+    color: #bfaa1a;
 }
