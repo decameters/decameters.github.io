@@ -2,18 +2,18 @@ h1 {
   color: #b5aa1a;
   font-family: "Times New Roman", Times, serif;
   font-size: 24px;
-  font-style: italic;
+  font-style: italic, underline;
   margin-top: 7px;
-  margin-bottom: 2px; 
+  margin-bottom: 0px; 
 }
 
 h3 {
   color:#b5aa1a;
   font-family: "Times New Roman", Times, serif;
   font-size: 16px;
-  font-style: italic;
+  font-style: italic, underline;
   margin-top: 2px;
-  margin-bottom: 2px;
+  margin-bottom: 0px;
 }
 
 body {
