@@ -1,15 +1,15 @@
 h1 {
   color: #b5aa1a;
   font-style: italic;
-  margin-top: 10;
-  margin-bottom: 5; 
+  margin-top: 10px;
+  margin-bottom: 5px; 
 }
 
 h2 {
   color:#000000;
   font-style: italic;
-  margin-top: 5;
-  margin-bottom: 5;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 body {
