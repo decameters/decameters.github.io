@@ -16,10 +16,7 @@ h3 {
 
 body {
   background-color: #ffffff;
-}
-
-p {
-    font-family: "Arial", Arial, san-serif;
+  font-family: "Arial", Arial, san-serif;
 }
 
 a:link, a:visited {
