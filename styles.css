@@ -1,12 +1,15 @@
 h1 {
   color: #b5aa1a;
   font-style: italic;
-  line-height: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px; 
 }
 
 h2 {
-  color:#ffffff;
+  color:#000000;
   font-style: italic;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 ol {
