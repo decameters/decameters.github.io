@@ -23,12 +23,11 @@ body {
 }
 
 a:link, a:visited {
-    background-color: #bfaa1a;
-    color: #ffffff;
+    color: #000000;
 }
 
 
 a:hover, a:active {
-    background-color: #ffffff;
-    color: #bfaa1a;
+    background-color: #bfaa1a;
+    color: #ffffff;
 }
