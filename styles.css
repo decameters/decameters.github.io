@@ -17,8 +17,8 @@ h3 {
 }
 
 img {
-    float: right;
-    margin: 0 0 10px 10px;
+    float: left;
+    margin: 10px 10px 10px 10px;
 }
 
 body {
