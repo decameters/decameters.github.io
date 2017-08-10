@@ -16,6 +16,14 @@ h3 {
   margin-bottom: 0px;
 }
 
+header {
+    font-family: "Arial", Arial, san-serif;
+    font-size: 12px;
+    margin-left: 0px;
+    img-align: right
+    text-align: left;
+}
+
 body {
   background-color: #ffffff;
   font-family: "Arial", Arial, san-serif;
@@ -39,5 +47,4 @@ footer {
   font-style: italic;
   margin-top: 7px;
   margin-bottom: 0px
-   
 }
