@@ -31,3 +31,12 @@ a:hover, a:active {
     background-color: #bfaa1a;
     color: #ffffff;
 }
+footer {
+  color: #b5aa1a;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 10px;
+  font-style: italic;
+  margin-top: 7px;
+  margin-bottom: 0px
+   
+}
