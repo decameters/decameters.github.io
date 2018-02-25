@@ -1,3 +1,0 @@
-# decameters.github.io
-
-Fun.
